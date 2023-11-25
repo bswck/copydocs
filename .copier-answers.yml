@@ -1,0 +1,15 @@
+_commit: 1e36d1d
+_src_path: gh:bswck/skeleton
+author_full_name: Bartosz Sławecki
+email_address: bswck.dev@gmail.com
+github_username: bswck
+license_name: MIT
+package_name: copydocs
+project_description: 'DRY: Reuse your docstrings.'
+publish_on_pypi: true
+pypi_project_description: 'DRY: Reuse your docstrings.'
+pypi_project_name: copydocs
+python_version: '3.8'
+repo_name: copydocs
+use_precommit: true
+visibility: public
